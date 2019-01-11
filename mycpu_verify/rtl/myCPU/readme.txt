@@ -1,0 +1,8 @@
+﻿mycpu下包含14个文件：
+顶层模块mycpu_top
+五个流水线阶段模块fetch、decode、execute、memory、writeback
+乘法器和除法器模块div、mul(multiply)
+指令判断的控制模块control
+指令相关的处理旁路模块bypass
+运算器与寄存器模块alu、reg_file
+译码模块tools
